@@ -1,9 +1,9 @@
 ### Study-of-basic-gates
 **NAME:**
-HARINI S 
+Dheeena Darshini Karthik Dheepan
 
 **REG NO:**
-212223240048
+212223240030 
 
 **AIM:** 
 
