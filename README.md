@@ -1,6 +1,6 @@
 ### Study-of-basic-gates
 **NAME:**
-Dheena Darshini Karthik Dheepan
+Dheena Darshini Karthik Dheepan 
 
 **REG NO:**
 212223240030
